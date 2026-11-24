@@ -41,10 +41,10 @@ O aplicativo será aberto no navegador (em geral, em `http://localhost:8501`). U
 Após o deploy no Render, o aplicativo ficará disponível em:
 
 ```
-https://<APP_NAME>.onrender.com/
+https://tripleten-vehicles-dashboard-uq38.onrender.com
 ```
 
-Substitua `<APP_NAME>` pelo nome do serviço criado no Render.
+O aplicativo está publicado no Render e pode ser acessado pelo endereço acima.
 
 ## Estrutura do projeto
 
